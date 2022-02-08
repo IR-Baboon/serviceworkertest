@@ -2,13 +2,13 @@
   "name": "runningmate",
   "version": "0.0.1",
   "description": "",
-  "keywords": "runningmate",
+  "index": "./index.html",
   "license": "",
   "author": "lex",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
-    "start": "web-dev-server --app-index index.html --open --watch",
+    "start": "web-dev-server --app-index ./index.html --open --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
