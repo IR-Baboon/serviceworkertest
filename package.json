@@ -2,7 +2,6 @@
   "name": "runningmate",
   "version": "0.0.1",
   "description": "",
-  "index": "./index.html",
   "license": "",
   "author": "lex",
   "scripts": {
