@@ -35,7 +35,7 @@
       "sizes": "36x36"
     }
   ],
-  "start_url": "/serviceworkertest/",
+  "start_url": "./",
   "scope": ".",
   "display": "standalone",
   "background-color": "#333",
