@@ -5,37 +5,37 @@
   "lang": "en-US",
   "icons": [
     {
-      "src": "./serviceworkertest/img/android-icon-192x192.png",
+      "src": "./img/android-icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "./serviceworkertest/img/android-icon-144x144.png",
+      "src": "./img/android-icon-144x144.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "./serviceworkertest/img/android-icon-96x96.png",
+      "src": "./img/android-icon-96x96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "./serviceworkertest/images/android-icon-72x72.png",
+      "src": "./images/android-icon-72x72.png",
       "type": "image/png",
       "sizes": "72x72"
     },
     {
-      "src": "./serviceworkertest/images/android-icon-48x48.png",
+      "src": "./images/android-icon-48x48.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "./serviceworkertest/img/android-icon-36x36.png",
+      "src": "./img/android-icon-36x36.png",
       "type": "image/png",
       "sizes": "36x36"
     }
   ],
-  "start_url": "./serviceworkertest/index.html",
+  "start_url": "./serviceworkertest/",
   "scope": ".",
   "display": "standalone",
   "background-color": "#333",
